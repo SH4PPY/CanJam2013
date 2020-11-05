@@ -1,0 +1,48 @@
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted string - line 3: 'W' -> "W"
+Converted string - line 16: 'A' -> "A"
+Converted string - line 29: 'S' -> "S"
+Converted string - line 42: 'D' -> "D"
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_hurt' - setting to default audio group
+Missing audiogroup for sound: 'snd_shootmain' - setting to default audio group
+Missing audiogroup for sound: 'snd_shoot' - setting to default audio group
+Missing audiogroup for sound: 'snd_powerup' - setting to default audio group
+Missing audiogroup for sound: 'snd_powerup2' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion' - setting to default audio group
+Missing audiogroup for sound: 'snd_burn' - setting to default audio group
+Missing audiogroup for sound: 'snd_background' - setting to default audio group
+Missing audiogroup for sound: 'select' - setting to default audio group
+Missing audiogroup for sound: 'click' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_draw_life_images.gml'
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_fullscreen.gml'
+Added compatibility script 'action/action_if_health.gml'
+Added compatibility script 'action/action_if_life.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move_point.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_reverse_ydir.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_health.gml'
+Added compatibility script 'action/action_set_hspeed.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_set_vspeed.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

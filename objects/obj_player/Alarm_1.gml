@@ -1,0 +1,1 @@
+canLoseLife = 1;
